@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_9",
+  "package": "com.aqua.mixins",
+  "client": [
+    "EntityPlayerSPMixin",
+    "EntityRendererMixin",
+    "GuiInGameMixin",
+    "IEntityLivingBaseMixin",
+    "MinecraftMixin",
+    "NetworkManagerMixin"
+  ],
+  "mixins": [
+    "EntityPlayerSPMixin",
+    "EntityRendererMixin",
+    "GuiInGameMixin",
+    "IEntityLivingBaseMixin",
+    "MinecraftMixin",
+    "NetworkManagerMixin"
+  ]
+}

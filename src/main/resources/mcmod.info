@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "aqua",
+    "name": "aqua",
+    "description": "An attempt at a utility mod, by Tryfle!",
+    "version": "0.0.1",
+    "mcversion": "1.8.9",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Tryfle"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
